@@ -2,6 +2,8 @@
 
 Streamlit dashboard for measuring recent GitHub engineering contribution signals for `PostHog/posthog`.
 
+Dashboard is published to https://byronfung-engineering-productivity-dashboard-dpcpgk.streamlit.app/
+
 ## Quick start
 
 ```bash
